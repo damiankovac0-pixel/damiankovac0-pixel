@@ -2,7 +2,7 @@
 
 # Damian Kovac
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=IBDP+May+2027+%7C+Computer+Science+HL;Building+websites%2C+tools%2C+AI+and+server+stuff;MoruMori+%E2%80%A2+CMS+%E2%80%A2+corespace" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=IBDP+May+2027+%7C+Computer+Science+HL;Building+websites%2C+tools%2C+AI+and+server+stuff;MoruMori+-+CMS+-+corespace" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-@damiankovac0--pixel-181717?style=for-the-badge&logo=github)](https://github.com/damiankovac0-pixel)
 [![MoruMori](https://img.shields.io/badge/MoruMori-company-1f2937?style=for-the-badge&logo=github)](https://github.com/morumorii)
@@ -29,7 +29,7 @@ I’m taking **Computer Science HL**, and my EE is currently aimed at **computer
 <tr>
 <td width="50%">
 
-### 🌎 Center for Mesoamerican Studies
+### Center for Mesoamerican Studies
 Live website for the **Center for Mesoamerican Studies**, Faculty of Arts, Comenius University Bratislava.
 
 - live: [mesoamerica.eu](https://mesoamerica.eu)
@@ -39,7 +39,7 @@ Live website for the **Center for Mesoamerican Studies**, Faculty of Arts, Comen
 </td>
 <td width="50%">
 
-### 💼 Sebastian Kovac webpage
+### Sebastian Kovac webpage
 Static build for Sebastian Kovac's website.
 
 - live: [kovacsebastian.com](https://kovacsebastian.com)
@@ -51,7 +51,7 @@ Static build for Sebastian Kovac's website.
 <tr>
 <td width="50%">
 
-### 🧠 corespace
+### corespace
 IB-focused study tooling built with VSHT.
 
 - repo: [VSHT3/corespace](https://github.com/VSHT3/corespace)
@@ -61,12 +61,12 @@ IB-focused study tooling built with VSHT.
 </td>
 <td width="50%">
 
-### 🖥️ Custom-BG-MacOS-Plash
-Custom macOS Plash wallpaper/dashboard setup.
+### NoteSpace
+Personal notes / knowledge space idea.
 
-- repo: [Custom-BG-MacOS-Plash](https://github.com/damiankovac0-pixel/Custom-BG-MacOS-Plash)
-- weather/calendar/todo/dashboard ideas
-- mostly HTML/CSS/JS
+- repo: [NoteSpace](https://github.com/damiankovac0-pixel/NoteSpace)
+- early-stage notes and organization project
+- connected to how I structure school and project work
 
 </td>
 </tr>

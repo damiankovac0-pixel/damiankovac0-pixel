@@ -46,7 +46,8 @@ I don’t want this to look like I’m claiming mastery of every badge on the in
 ## School
 
 - **IBDP May 2027**
-- **Computer Science HL**
+- **HL:** Computer Science, Mathematics: Applications and Interpretation, English A
+- **SL:** Economics, Psychology, Spanish
 - Extended Essay direction: **quantum computing / computer science**
 
 ---
